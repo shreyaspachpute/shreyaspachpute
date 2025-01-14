@@ -20,7 +20,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: [shreyas.ai.engineer@gmail.com](mailto:shreyas.ai.engineer@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/shreyas-pachpute-b5882a204/](linkedin.com/in/shreyas-pachpute-b5882a204/)  
+- 💼 LinkedIn: [Shreyas Pachpute](linkedin.com/in/shreyas-pachpute-b5882a204/)  
 - 🌐 Portfolio: [Working on it!!](https://spprojects.com)
 
 ---
